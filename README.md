@@ -1,1 +1,1 @@
-# googlestockprice
+# Google Stock Price Prediciton using LSTM
